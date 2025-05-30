@@ -24,10 +24,6 @@ dist/
 .DS_Store
 Thumbs.db
 
-# CityFlow-specific outputs
-replay.txt
-*.json
-
 # PyInstaller
 *.spec
 
