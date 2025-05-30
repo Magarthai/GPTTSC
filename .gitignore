@@ -23,7 +23,7 @@ dist/
 *.swp
 .DS_Store
 Thumbs.db
-
+replay.txt
 # PyInstaller
 *.spec
 
