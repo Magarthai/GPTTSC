@@ -1,0 +1,35 @@
+# Python virtual environments
+myenv/
+.venv/
+.venv310/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Logs, dumps, and temp files
+*.log
+*.tmp
+*.rar
+
+# Jupyter / VSCode / IDE
+.ipynb_checkpoints/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# CityFlow-specific outputs
+replay.txt
+*.json
+
+# PyInstaller
+*.spec
+
+# Requirement cache
+pip-log.txt
